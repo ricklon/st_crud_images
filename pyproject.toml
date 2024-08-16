@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "crud-images"
+version = "0.1.0"
+description = ""
+authors = ["Ricklon <rick.rickanderson@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+streamlit = "^1.37.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
